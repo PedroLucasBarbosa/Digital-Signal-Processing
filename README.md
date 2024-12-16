@@ -12,8 +12,8 @@ Cada capítulo possui:
 - Links para vídeos explicativos e interações web.
 
 ### Capítulos:
-1. [Capítulo 4: Transformada-z](Capitulo4_TransformadaZ/)
-2. [Capítulo 5: Transformada Discreta de Fourier](Capitulo5_TransformadaDFT/)
+1. [Capítulo 4: Transformada-z](Capitulo_4_A_Transformada-z/)
+2. [Capítulo 5: Transformada Discreta de Fourier](Capitulo_5_Transformada_Discreta_de_Fourier/)
 3. [Capítulo 6: Filtros Discretos no Tempo](Capitulo6_FiltrosDiscretos/)
 4. [Capítulo 7: Projeto de Filtros FIR](Capitulo7_FiltrosFIR/)
 5. [Capítulo 8: Projeto de Filtros IIR](Capitulo8_FiltrosIIR/)
