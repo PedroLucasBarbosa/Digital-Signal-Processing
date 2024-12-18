@@ -9,7 +9,9 @@ O objetivo é aplicar os conceitos aprendidos na prática utilizando Python e Go
 Cada capítulo possui:
 - Resumo Teórico 
 - Simulações Computacionais (Notebooks em Python/Colab)
-- Links para vídeos explicativos e interações web.
+- Vídeos explicativos Animados.
+
+OBS: Caso os vídeos animados estejam com algum tipo de problema, o Google Colab consegue gerar o gráfico totalmente.
 
 ### Capítulos:
 1. [Capítulo 4: Transformada-z](Capitulo_4_A_Transformada-z/)
